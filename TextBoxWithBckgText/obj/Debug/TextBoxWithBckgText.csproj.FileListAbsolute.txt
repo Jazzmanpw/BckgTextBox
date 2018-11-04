@@ -1,0 +1,10 @@
+D:\_ДИМИНЫ ФАЙЛЫ\C#\Projects\TextBoxWithBckgText\TextBoxWithBckgText\obj\Debug\TextBoxWithBckgText.csprojResolveAssemblyReference.cache
+D:\_ДИМИНЫ ФАЙЛЫ\C#\Projects\TextBoxWithBckgText\TextBoxWithBckgText\bin\Debug\TextBoxWithBckgText.dll
+D:\_ДИМИНЫ ФАЙЛЫ\C#\Projects\TextBoxWithBckgText\TextBoxWithBckgText\bin\Debug\TextBoxWithBckgText.pdb
+D:\_ДИМИНЫ ФАЙЛЫ\C#\Projects\TextBoxWithBckgText\TextBoxWithBckgText\obj\Debug\TextBoxWithBckgText.dll
+D:\_ДИМИНЫ ФАЙЛЫ\C#\Projects\TextBoxWithBckgText\TextBoxWithBckgText\obj\Debug\TextBoxWithBckgText.pdb
+E:\_ДИМИНЫ ФАЙЛЫ\C#\Projects\TextBoxWithBckgText\TextBoxWithBckgText\bin\Debug\TextBoxWithBckgText.dll
+E:\_ДИМИНЫ ФАЙЛЫ\C#\Projects\TextBoxWithBckgText\TextBoxWithBckgText\bin\Debug\TextBoxWithBckgText.pdb
+E:\_ДИМИНЫ ФАЙЛЫ\C#\Projects\TextBoxWithBckgText\TextBoxWithBckgText\obj\Debug\TextBoxWithBckgText.dll
+E:\_ДИМИНЫ ФАЙЛЫ\C#\Projects\TextBoxWithBckgText\TextBoxWithBckgText\obj\Debug\TextBoxWithBckgText.pdb
+E:\_ДИМИНЫ ФАЙЛЫ\C#\Projects\TextBoxWithBckgText\TextBoxWithBckgText\obj\Debug\TextBoxWithBckgText.csprojResolveAssemblyReference.cache
